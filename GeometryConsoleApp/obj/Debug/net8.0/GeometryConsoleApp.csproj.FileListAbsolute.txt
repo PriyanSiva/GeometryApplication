@@ -1,0 +1,5 @@
+C:\Users\sprve\Desktop\Projects\Modular Development\New folder (2)\GeometryConsoleApp\obj\Debug\net8.0\GeometryConsoleApp.csproj.AssemblyReference.cache
+C:\Users\sprve\Desktop\Projects\Modular Development\New folder (2)\GeometryConsoleApp\obj\Debug\net8.0\GeometryConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sprve\Desktop\Projects\Modular Development\New folder (2)\GeometryConsoleApp\obj\Debug\net8.0\GeometryConsoleApp.AssemblyInfoInputs.cache
+C:\Users\sprve\Desktop\Projects\Modular Development\New folder (2)\GeometryConsoleApp\obj\Debug\net8.0\GeometryConsoleApp.AssemblyInfo.cs
+C:\Users\sprve\Desktop\Projects\Modular Development\New folder (2)\GeometryConsoleApp\obj\Debug\net8.0\GeometryConsoleApp.csproj.CoreCompileInputs.cache
